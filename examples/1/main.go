@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"sysresmon"
+	"github.com/nmrshll/sysresmon"
 	"time"
 )
 
